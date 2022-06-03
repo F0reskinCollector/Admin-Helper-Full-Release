@@ -2370,4 +2370,4 @@ async def on_message(message):
         await message.channel.send(embed=em)
 
 uptime.start()
-bot.run("OTMwODQyMDM2MzYwMzE5MDY3.Yd7wMw.6PHqPeY8H-xSpg_Oi3IHKuo5pYY")
+bot.run("your token")
